@@ -24,8 +24,9 @@ SmokeySpoofer is an advanced HWID (Hardware Identification) spoofer designed for
 
 5. **Restart**: After spoofing, it is recommended to restart your system to apply the changes effectively.
 
-![UI Preview](one.PNG)
-![UI Preview](two.PNG)
+![image](https://github.com/tiffilehh/SmokeySpoofer/assets/170965189/ef2190c8-e350-4d47-b4eb-e27fd6f5df2f)
+![image](https://github.com/tiffilehh/SmokeySpoofer/assets/170965189/3a27d99a-7eb0-43fe-a240-78efeff832bd)
+
 
 ## Disclaimer
 
